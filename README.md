@@ -83,11 +83,11 @@
    
 ## Gifted-Md V.2.5.0 Deployment Methods
 ---
-1.  ***Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
-2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://session.giftedtechnexus.co.ke) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
-3. ***Deploy on [`HEROKU`](https://deploy-gifted-md.vercel.app/)***
+1.  ***Fork Repo [`CLICK HERE`](https://github.com/Sylivanu/Gifted-Md2/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
+2.  ***Get `SESSION ID`  [`BY CLICKING HERE FOR PAIR COSE`](https://sessiongenerator-97b069cd3eac.herokuapp.com/pair) Supports ONLY  Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
+3. ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Sylivanu/Gifted-Md2)***
 4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`Replit`](https://replit.com/github.com/mouricedevs/Gifted-Md)***
+5.  ***Deploy on [`Replit`](https://replit.com/github.com/Sylivanu/Gifted-Md2)***
 6.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 7.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/mouricedevs/Gifted-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254762016957&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=true&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GIFTED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=suhail-md&env[KOYEB_NAME]=gifted-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg)***
 
